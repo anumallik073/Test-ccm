@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkcatalog_builder"]=self["webpackChunkcatalog_builder"]||[]).push([[597],{4597:(e,a,l)=>{l.r(a),l.d(a,{default:()=>s});const u={},c=u,s=c}}]);
